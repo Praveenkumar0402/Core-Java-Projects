@@ -1,0 +1,7 @@
+package com;
+
+public class Perimeter {
+	
+	private int perimeter;
+	private int rectangle;
+}
