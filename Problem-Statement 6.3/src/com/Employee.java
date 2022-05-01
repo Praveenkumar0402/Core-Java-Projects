@@ -2,16 +2,13 @@ package com;
 
 public class Employee {
 	private int empid;
-	private String  ename, address;
-	
-	public Employee (int empid, String ename, String address) {
-		
+	private String ename , address ;
+	public Employee(int empid, String ename, String address) {
 		super();
-		this.empid=empid;
-		this.ename=ename;
-		this.address=address;
+		this.empid = empid;
+		this.ename = ename;
+		this.address = address;
 	}
-	
 	public int getEmpid() {
 		return empid;
 	}

@@ -1,8 +1,7 @@
 package com;
 
 public class NameNotValidException extends Exception {
-	 public String validname()
-	    {
+	 public String validname() {
 	         return ("Name is not Valid..Please ReEnter the Name");
 	    }
 }

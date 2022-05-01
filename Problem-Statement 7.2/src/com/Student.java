@@ -10,8 +10,7 @@ public class Student{
          age=0;
          course=null;
     }
-    Student(int r,String n,int a,String c) throws Exception
-    {
+    Student(int r,String n,int a,String c) throws Exception {
          roll=r;
          course=c;
          int l,temp=0;

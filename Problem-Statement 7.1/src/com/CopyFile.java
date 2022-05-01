@@ -35,7 +35,7 @@ public class CopyFile {
 
 	            if(ans=='N'||ans=='n') { 
 	                fr.close();
-	            
+	            //  fw.close();
 	                System.out.println("Could not enter data"); 
 	            } else { 
 	                  fw = new FileWriter(file2); 
