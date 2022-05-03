@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fxvfdgsfg
+Bundle-SymbolicName: fxvfdgsfg
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: fxvfdgsfg
+Bundle-RequiredExecutionEnvironment: JavaSE-11
